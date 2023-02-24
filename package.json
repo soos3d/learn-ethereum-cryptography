@@ -1,0 +1,20 @@
+{
+  "name": "compute-sha256",
+  "version": "1.0.0",
+  "description": "Simple script to compute hashes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3",
+    "sha256",
+    "hashes",
+    "cryptography"
+  ],
+  "author": "Davide Zambiasi",
+  "license": "MIT",
+  "dependencies": {
+    "ethereum-cryptography": "^1.1.2"
+  }
+}
